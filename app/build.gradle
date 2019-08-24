@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "opensource.celento.bloodbank"
+        applicationId "com.redcells"
         minSdkVersion 15
         targetSdkVersion 29
         versionCode 1
@@ -30,6 +30,7 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
     testImplementation 'junit:junit:4.12'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.annotation:annotation:1.1.0'
 }
 
 

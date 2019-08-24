@@ -9,7 +9,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="0dp"
-    tools:context="opensource.celento.bloodbank.searchview">
+    tools:context="com.redcells.searchview">
 
     <TextView
         android:text="Some wonderful caption here :)"
