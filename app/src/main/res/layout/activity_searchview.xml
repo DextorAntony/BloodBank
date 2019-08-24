@@ -23,13 +23,12 @@
 
 
     <ImageView
+        android:id="@+id/imageView4"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="20dp"
-        app:srcCompat="@drawable/search"
-        android:layout_below="@id/Rel2"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/imageView4" />
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="11dp"
+        app:srcCompat="@drawable/search" />
 
     <TextView
         android:text="Search Donor"

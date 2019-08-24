@@ -2,11 +2,12 @@ package opensource.celento.bloodbank;
 
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Spinner;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class searchview extends AppCompatActivity {
 
